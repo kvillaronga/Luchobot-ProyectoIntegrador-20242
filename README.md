@@ -16,27 +16,16 @@ Este repositorio contiene los recursos y materiales relacionados con el **Proyec
 
 3. **[Anteproyecto](./PI-4-Anteproyecto.pdf)**  
    Informe del anteproyecto, donde se describe el objetivo, alcance, y metodología utilizada para el desarrollo del robot.  
-   - Formato: PDF  
-   - Contenido: Introducción, justificación, marco teórico y plan de trabajo.
+   - Formato: PDF 
 
 4. **[Códigos del Proyecto](./CODIGOS/)**  
-   Carpeta que contiene los scripts necesarios para la operación del robot.  
-   - Lenguaje: [Especificar lenguaje, por ejemplo, C++, Python, etc.]  
+   Carpeta que contiene los scripts necesarios para la operación del robot, tanto del emisor como del receptor.
+   Cada en=misor tiene su receptor correspondiente a cada una de las diferentes direcciones asignadas. 
+   - Lenguaje: C++
    - Contenido:  
      - Código fuente para el control del robot.  
      - Configuración de comunicación por RF.  
      - Control de motores y sensores.
-
-## Requisitos del Proyecto 🛠️
-
-Para explorar el contenido del repositorio y ejecutar los códigos, necesitarás:  
-- [Lista de software necesario, por ejemplo:]  
-  - Arduino IDE / PlatformIO  
-  - Bibliotecas específicas (indicar cuáles y cómo instalarlas)  
-- [Lista de hardware relacionado, por ejemplo:]  
-  - Módulo RF (nRF24L01)  
-  - Motores DC  
-  - Sensores utilizados (si aplica)  
 
 ## Cómo usar este repositorio 📝
 

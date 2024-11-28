@@ -4,22 +4,22 @@ Este repositorio contiene los recursos y materiales relacionados con el **Proyec
 
 ## Contenido 📂
 
-1. **[Presentación del Proyecto](./presentacion_proyecto.pdf)**  
+1. **[Presentación del Proyecto](./Pi-4-VideoPresentacion.pdf)**  
    Archivo PDF que incluye un enlace a un video donde se presenta el proyecto.  
    - Formato: PDF  
    - Contenido: Enlace al video de presentación del **Robot Futbolista**.
 
-2. **[Ficha Técnica del Robot](./ficha_tecnica.pdf)**  
+2. **[Ficha Técnica del Robot](./PI-FichaTecnica.pdf)**  
    Documento PDF que describe las especificaciones técnicas del robot, incluyendo hardware, software y capacidades.  
    - Formato: PDF  
    - Contenido: Detalles como tipo de motores, sensores, dimensiones, y otros datos relevantes.
 
-3. **[Anteproyecto](./anteproyecto.pdf)**  
+3. **[Anteproyecto](./PI-4-Anteproyecto.pdf)**  
    Informe del anteproyecto, donde se describe el objetivo, alcance, y metodología utilizada para el desarrollo del robot.  
    - Formato: PDF  
    - Contenido: Introducción, justificación, marco teórico y plan de trabajo.
 
-4. **[Códigos del Proyecto](./codigo/)**  
+4. **[Códigos del Proyecto](./CODIGOS/)**  
    Carpeta que contiene los scripts necesarios para la operación del robot.  
    - Lenguaje: [Especificar lenguaje, por ejemplo, C++, Python, etc.]  
    - Contenido:  

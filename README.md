@@ -4,7 +4,7 @@ Este repositorio contiene los recursos y materiales relacionados con el **Proyec
 
 ## Contenido 📂
 
-1. **[Presentación del Proyecto](./Pi-4_Video.pdf)**  
+1. **[Presentación del Proyecto](./PI-4_Video.pdf)**  
    Archivo PDF que incluye un enlace a un video donde se presenta el proyecto.  
    - Formato: PDF  
    - Contenido: Enlace al video de presentación del **Robot Futbolista**.
